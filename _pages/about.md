@@ -62,7 +62,6 @@ I am also a member of <a href="https://yuezunli.github.io/planktongroup/">PVOA g
     </tr>
     <tr>
         <td>
-            <strong><span id='total_cit' class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'>260000+</span></strong>
             <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
             <img src="https://img.shields.io/badge/citations-1400+-blue?style=social&logo=google-scholar" />
         </td>

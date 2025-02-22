@@ -6,30 +6,13 @@
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
         {% endif %}
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            console.log(totalCitation);
-            // var citationEles = document.getElementsByClassName('show_paper_citations')
-            // Array.prototype.forEach.call(citationEles, element => {
-            //     var paperId = element.getAttribute('data')
-            //     var numCitations = data['publications'][paperId]['num_citations']
-            //     element.innerHTML = '| Citations: ' + numCitations;
-            // });
-            console.log(gsDataBaseUrl + "google-scholar-stats/gs_data.json");
-            console.log("Loaded data:", data);  // 打印数据，确保加载成功
-
-            var citationEles = document.getElementsByClassName('show_paper_citations');
-            
-            Array.prototype.forEach.call(citationEles, function (element) {
-                var paperId = element.getAttribute('data');
-                console.log("paperId from element:", paperId);  // 打印每个元素的 paperId
-
-                // 确保 paperId 和对应数据存在
-                if (paperId && data['publications'][paperId]) {
-                    var numCitations = data['publications'][paperId]['num_citations'];
-                    console.log("Number of citations for", paperId, ":", numCitations);  // 打印引用数
-                    element.innerHTML = '| Citations: ' + numCitations;
-                } 
+            // var totalCitation = data['citedby']
+            // document.getElementById('total_cit').innerHTML = totalCitation;
+            var citationEles = document.getElementsByClassName('show_paper_citations')
+            Array.prototype.forEach.call(citationEles, element => {
+                var paperId = element.getAttribute('data')
+                var numCitations = data['publications'][paperId]['num_citations']
+                element.innerHTML = '| Citations: ' + numCitations;
             });
         });
     })
