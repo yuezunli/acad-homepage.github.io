@@ -112,6 +112,9 @@ I am also a member of <a href="https://yuezunli.github.io/planktongroup/">PVOA g
                 
 # 📖 Publications <font size="1">(+ Advised student, # Corresponding author, * Equal contribution)</font>
 
+#### Preprints
+
+#### <i class="fa fa-calendar" aria-hidden="true"></i> 2025 (WACV\*1)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/tsom2024wacv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -121,10 +124,13 @@ Yunfei Li<sup>+</sup>, **Yuezun Li<sup>#</sup>**, Xin Wang, Baoyuan Wu, Jiaran Z
 
 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025. <b><span style="color:red">(Oral)</span></b>
 
-[**Project**](-) <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
+[**Code**](https://github.com/OUC-VAS/TSOM) <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
 
 </div>
 </div>
+
+#### <i class="fa fa-calendar" aria-hidden="true"></i> 2024 (NeurIPS\*1, TIFS\*2, TCSVT\*2, BMVC\*2, ACCV\*1, PG\*1, CVIU\*2, TETC\*1, ICASSP\*1, ICMR\*1, KBS\*1)
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
