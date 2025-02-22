@@ -15,28 +15,116 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<!-- https://cdn.jsdelivr.net/gh/yuezunli/acad-homepage.github.io@google-scholar-stats/gs_data.json -->
+
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<p style="text-align:justify">
+I am an Assistant Professor/Lecturer at the <a href="https://ai-ouc.cn/">Institute of Artificial Intelligence</a>, at <a href="https://www.ouc.edu.cn/main.htm">Ocean University of China</a>. </p>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<p style="text-align:justify">
+My research focuses on multimedia forensics, computer vision and vision security.
+I have published more than 30 papers in prestigious conferences and journals, including NeurIPS, ICCV, CVPR, ECCV, TIFS, TCSVT, and PR, with total <a href='https://scholar.google.com/citations?user=v0Qt7BAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, <b>including several papers with more than 1,000 citations each</b> (CVPR20, CVPRW19, ICASSP19, WIFS18). The WIFS18 paper was also featured on <b>CCTV13’s "World Weekly" special on deepfakes [7:43]</b>. I serve as a reviewer for top conferences and journals, such as TPAMI, TIP, IJCV, TIFS, ICCV, CVPR, AAAI, NeurIPS, ICLR, etc. I have been recognized on Stanford’s 2024 list of the top 2% of scientists worldwide and am a recipient of the 2024 ACM Qingdao Rising Star Award. </p>
+
+<p style="text-align:justify">
+I was a Senior Research Scientist at the Department of Computer Science and Engineering of <a href="https://www.buffalo.edu/">University at Buffalo, SUNY</a>, 
+working with <a href="https://cse.buffalo.edu/~siweilyu/lyu_lab.html">Siwei Lyu</a>. 
+I was a summer intern at <a href="https://www.ge.com/research/">GE glocal research center</a> during 2016 - 2018.
+I received Ph.D. degree in computer science at <a href="https://www.albany.edu/">University at Albany, SUNY</a> in 2020, advised by <a href="https://cse.buffalo.edu/~siweilyu/lyu_lab.html">Siwei Lyu</a> (IEEE/IAPR Fellow). 
+I received M.S. degree in Computer Science in 2015 and B.S. degree in Software Engineering in 2012 at Shandong University. </p>
+
+<p style="text-align:justify">
+Currently I am leading <a href="https://yuezunli.github.io/ligroup/">Vision Analysis and Security (VAS) lab</a> <img src="images/logo.png" width="25">. Our lab has multiple openings. <b>Please drop me an email if you are interested in internship / M.S. program.</b>
+I am also a member of <a href="https://yuezunli.github.io/planktongroup/">PVOA group</a> which focuses on underwater computer vision reserach. Drop me an email if you are interested.</p>
+
+
+# 📌 Representative Works
+
+<table class="tab1" width="100%" style="table-layout:fixed;word-break:break-all;background:#fafafa">
+    <tr>
+        <th>CVPR'20</th>
+        <th>CVPRW'19</th>
+        <th>WIFS'18</th>
+        <th>ICASSP'19</th>
+        <th>ICCV'21</th>
+    </tr>
+    <tr>
+        <td><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Celeb-DF_A_Large-Scale_Challenging_Dataset_for_DeepFake_Forensics_CVPR_2020_paper.pdf">[Celeb-DF]</a>
+              <a href="https://github.com/yuezunli/celeb-deepfakeforensics">[<i class="fa fa-github" style="color:black"></i>]</a></td>
+        <td><a href="http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf">[FWA]</a>
+            <a href="https://github.com/yuezunli/CVPRW2019_Face_Artifacts">[<i class="fa fa-github" style="color:black"></i>]</a></td>
+        <td><a href="https://arxiv.org/abs/1806.02877">[In Ictu Oculi]</a>
+            <a href="https://github.com/yuezunli/WIFS2018_In_Ictu_Oculi">[<i class="fa fa-github" style="color:black"></i>]</a></td>
+        <td><a href="https://arxiv.org/pdf/1811.00661">[Head Pose]</a>
+            <a href="https://github.com/rbassett3/headpose_forensic">[<i class="fa fa-github" style="color:black"></i>]</a></td>
+        <td><a href="http://openaccess.thecvf.com/content/ICCV2021/html/Li_Invisible_Backdoor_Attack_With_Sample-Specific_Triggers_ICCV_2021_paper.html">[ISSBA]</a>
+            <a href="https://github.com/yuezunli/ISSBA">[<i class="fa fa-github" style="color:black"></i>]</a></td>
+    </tr>
+    <tr>
+        <td>
+            <strong><span id='total_cit' class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'>260000+</span></strong>
+            <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
+            <img src="https://img.shields.io/badge/citations-1400+-blue?style=social&logo=google-scholar" />
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/citations-1100+-blue?style=social&logo=google-scholar" />
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/citations-1100+-blue?style=social&logo=google-scholar" />
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/citations-1100+-blue?style=social&logo=google-scholar" />
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/citations-500+-blue?style=social&logo=google-scholar" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <iframe 
+                src="https://www.youtube.com/embed/vLTiluewGQY">
+            </iframe>                            
+        </td>
+        <td>
+            <img src="images/representative/fwa.png">
+        </td>
+        <td>
+            <a href="https://tv.cctv.com/2019/04/28/VIDE0aLKiWV83f2PrbZDF4G0190428.shtml"><img src="images/representative/wifs18.png"></a>
+        </td>
+        <td>
+            <img src="images/representative/headpose.png">
+        </td>
+        <td>
+            <iframe
+                src="https://www.youtube.com/embed/yFW5lQL9JK8">
+            </iframe>                            
+        </td>
+    </tr>
+</table> 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2025.01: &nbsp;🎉🎉 The work of TSOM (WACV 2025) is elected as Oral. &nbsp; <span style="color:red">New!</span> 
+- 2025.01: &nbsp; I gave a talk on face forensics in the wild at CSIG Young Scholars forum. &nbsp; <span style="color:red">New!</span>
+- 2024.11: &nbsp;🎉🎉 One paper on phytoplankton tracking is accepted by IEEE TCSVT. 
+- 2024.11: &nbsp;🎉🎉 Awarded BMVC outstanding reviewer. 
+- 2024.10: &nbsp;🎉🎉 One paper on sequential deepfake detection is accepted by WACV. 
+- 2024.09: &nbsp;🎉🎉 One paper on deepfake detection is accepted by NeurIPS. 
+- 2024.09: &nbsp;🎉🎉 Elected among <a href="https://topresearcherslist.com/Home/Search?AuthFull=Li,+Yuezun">World's Top 2% Scientists 2024 by Stanford University</a>. 
+                
+# 📖 Publications <font size="1">(+ Advised student, # Corresponding author, * Equal contribution)</font>
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/tsom2024wacv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Texture, Shape and Order Matter: A New Transformer Design for Sequential DeepFake Detection](https://arxiv.org/abs/2404.13873)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yunfei Li<sup>+</sup>, **Yuezun Li<sup>#</sup>**, Xin Wang, Baoyuan Wu, Jiaran Zhou, Junyu Dong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025. <b><span style="color:red">(Oral)</span></b>
+
+[**Project**](-) <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
+
 </div>
 </div>
 
