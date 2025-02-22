@@ -37,16 +37,7 @@ I received M.S. degree in Computer Science in 2015 and B.S. degree in Software E
 Currently I am leading <a href="https://yuezunli.github.io/ligroup/">Vision Analysis and Security (VAS) lab</a> <img src="images/logo.png" width="25">. Our lab has multiple openings. <b>Please drop me an email if you are interested in internship / M.S. program.</b>
 I am also a member of <a href="https://yuezunli.github.io/planktongroup/">PVOA group</a> which focuses on underwater computer vision reserach. Drop me an email if you are interested.</p>
 
-# 🔥 News
-- 2025.01: &nbsp;🎉🎉 The work of TSOM (WACV 2025) is elected as Oral. &nbsp; <span style="color:red">New!</span> 
-- 2025.01: &nbsp; I gave a talk on face forensics in the wild at CSIG Young Scholars forum. &nbsp; <span style="color:red">New!</span>
-- 2024.11: &nbsp;🎉🎉 One paper on phytoplankton tracking is accepted by IEEE TCSVT. 
-- 2024.11: &nbsp;🎉🎉 Awarded BMVC outstanding reviewer. 
-- 2024.10: &nbsp;🎉🎉 One paper on sequential deepfake detection is accepted by WACV. 
-- 2024.09: &nbsp;🎉🎉 One paper on deepfake detection is accepted by NeurIPS. 
-- 2024.09: &nbsp;🎉🎉 Elected among <a href="https://topresearcherslist.com/Home/Search?AuthFull=Li,+Yuezun">World's Top 2% Scientists 2024 by Stanford University</a>. 
-
-# 📌 Representative Works
+### 📌 Representative Works
 
 <table class="tab1" width="100%" style="table-layout:fixed;word-break:break-all;background:#fafafa">
     <tr>
@@ -109,7 +100,14 @@ I am also a member of <a href="https://yuezunli.github.io/planktongroup/">PVOA g
     </tr>
 </table> 
 
-
+# 🔥 News
+- 2025.01: &nbsp;🎉🎉 The work of TSOM (WACV 2025) is elected as Oral. &nbsp; <span style="color:red">New!</span> 
+- 2025.01: &nbsp; I gave a talk on face forensics in the wild at CSIG Young Scholars forum. &nbsp; <span style="color:red">New!</span>
+- 2024.11: &nbsp;🎉🎉 One paper on phytoplankton tracking is accepted by IEEE TCSVT. 
+- 2024.11: &nbsp;🎉🎉 Awarded BMVC outstanding reviewer. 
+- 2024.10: &nbsp;🎉🎉 One paper on sequential deepfake detection is accepted by WACV. 
+- 2024.09: &nbsp;🎉🎉 One paper on deepfake detection is accepted by NeurIPS. 
+- 2024.09: &nbsp;🎉🎉 Elected among <a href="https://topresearcherslist.com/Home/Search?AuthFull=Li,+Yuezun">World's Top 2% Scientists 2024 by Stanford University</a>. 
 
                 
 # 📖 Publications <font size="1">(+ Advised student, # Corresponding author, * Equal contribution)</font>
