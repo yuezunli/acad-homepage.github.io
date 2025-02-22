@@ -154,6 +154,50 @@ arXiv:2410.21861, 2024.
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/dfcam2024arxiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Active Fake: DeepFake Camouflage](https://arxiv.org/pdf/2409.03200)
+
+Pu Sun, Honggang Qi<sup>#</sup>, **Yuezun Li<sup>#</sup>**
+
+arXiv:2409.03200, 2024.
+
+[**Code**](-) <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/uwstereo2024arxiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UWStereo: A Large Synthetic Dataset for Underwater Stereo Matching](https://arxiv.org/abs/2409.01782)
+
+Qingxuan Lv<sup>+</sup>, Junyu Dong<sup>#</sup>, **Yuezun Li<sup>#</sup>**, Sheng Chen, Hui Yu, Shu Zhang, Wenhan Wang
+
+arXiv:2409.01782, 2024. 
+
+[**Code**](-) <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/hypersfda2024arxiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[High-order Neighborhoods Know More: HyperGraph Learning Meets Source-free Unsupervised Domain Adaptation](https://arxiv.org/abs/2405.06916)
+
+Jinkun Jiang<sup>+</sup>, Qingxuan Lv, **Yuezun Li<sup>#</sup>**, Yong Du, Sheng Chen, Hui Yu, Junyu Dong<sup>#</sup>
+
+arXiv:2405.06916, 2024. 
+
+[**Code**](-) <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
+
+</div>
+</div>
+
+
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2025 (WACV\*1)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/tsom2024wacv.png' alt="sym" width="100%"></div></div>
