@@ -113,7 +113,7 @@ I am also a member of <a href="https://yuezunli.github.io/planktongroup/">PVOA g
 # 📖 Publications <font size="1">(+ Advised student, # Corresponding author, * Equal contribution)</font>
 
 #### Preprints
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/forensicsadapter2024arxiv.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/forensicsadapter2024arxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Forensics Adapter: Adapting CLIP for Generalizable Face Forgery Detection](https://arxiv.org/pdf/2411.19715)
@@ -195,11 +195,25 @@ arXiv:2405.06916, 2024.
 [**Code**](-) <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
 
 </div>
-</div>
+</div> -->
 
 
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2025 (WACV\*1)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/tsom2024wacv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Texture, Shape and Order Matter: A New Transformer Design for Sequential DeepFake Detection](https://arxiv.org/abs/2404.13873)
+
+Yunfei Li<sup>+</sup>, **Yuezun Li<sup>#</sup>**, Xin Wang, Baoyuan Wu, Jiaran Zhou, Junyu Dong
+
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025. <b><span style="color:red">(Oral)</span></b>
+
+[**Code**](https://github.com/OUC-VAS/TSOM) <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/tsom2024wacv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
