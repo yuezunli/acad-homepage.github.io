@@ -113,6 +113,47 @@ I am also a member of <a href="https://yuezunli.github.io/planktongroup/">PVOA g
 # 📖 Publications <font size="1">(+ Advised student, # Corresponding author, * Equal contribution)</font>
 
 #### Preprints
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/forensicsadapter2024arxiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Forensics Adapter: Adapting CLIP for Generalizable Face Forgery Detection](https://arxiv.org/pdf/2411.19715)
+
+Xinjie Cui<sup>+</sup>, **Yuezun Li<sup>#</sup>**, Ao Luo, Jiaran Zhou, Junyu Dong
+
+arXiv:2411.19715, 2024.
+
+[**Code**](-) <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/faceposion2024arxiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection](https://arxiv.org/pdf/2411.19715)
+
+Delong Zhu<sup>+</sup>, **Yuezun Li<sup>#</sup>**, Baoyuan Wu, Jiaran Zhou, Zhibo Wang, Siwei Lyu
+
+arXiv:2412.01101, 2024. (Extended from ICME 2023)
+
+[**Code**](-) <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/faceposion2024arxiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HRGR: Enhancing Image Manipulation Detection via Hierarchical Region-aware Graph Reasoning](https://arxiv.org/abs/2410.21861)
+
+Xudong Wang<sup>+</sup>, **Yuezun Li<sup>#</sup>**, Huiyu Zhou, Jiaran Zhou, Junyu Dong
+
+arXiv:2410.21861, 2024.
+
+[**Code**](-) <strong><span class='show_paper_citations' data='v0Qt7BAAAAAJ:_xSYboBqXhAC'></span></strong>
+
+</div>
+</div>
+
+
 
 #### <i class="fa fa-calendar" aria-hidden="true"></i> 2025 (WACV\*1)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/tsom2024wacv.png' alt="sym" width="100%"></div></div>
