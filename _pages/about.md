@@ -199,7 +199,7 @@ arXiv:2405.06916, 2024.
 
 
 
-#### <i class="fa fa-calendar" aria-hidden="true"></i> 2025 (WACV\*1)
+#### 📆 2025 (WACV\*1)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/papers/tsom2024wacv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -228,7 +228,7 @@ IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025. <b><
 </div>
 </div>
 
-#### <i class="fa fa-calendar" aria-hidden="true"></i> 2024 (NeurIPS\*1, TIFS\*2, TCSVT\*2, BMVC\*2, ACCV\*1, PG\*1, CVIU\*2, TETC\*1, ICASSP\*1, ICMR\*1, KBS\*1)
+#### 📆 2024 (NeurIPS\*1, TIFS\*2, TCSVT\*2, BMVC\*2, ACCV\*1, PG\*1, CVIU\*2, TETC\*1, ICASSP\*1, ICMR\*1, KBS\*1)
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
