@@ -6,10 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuezun Li's Homepage"
-description              : "Director of VAS lab;
-                      Dept. of Computer Science and Technology;
-                      Ocean University of China (OUC)"
+title                    : ""
+description              : ""
 repository               : "yuezunli/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuezun Li (李岳尊)"
-  avatar           : "images/android-chrome-192x192.png"
-  bio              : "Multimedia ForensicsER"
-  location         : "Qingdao, China"
+  name             : ""
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : ""
+  location         : ""
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "liyuezun@ouc.edu.cn"
+  email            : ""
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -39,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : yuezunli
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
