@@ -1,7 +1,7 @@
 print(1)
 
-from scholarly import scholarly
-# from scholarly import scholarly, ProxyGenerator
+# from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 import jsonpickle
 import json
 from datetime import datetime
